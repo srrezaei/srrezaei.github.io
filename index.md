@@ -10,4 +10,4 @@ This site hosts my academic work, projects, and publications.
 
 - 📄 [CV](cv.pdf)
 - 📚 [Publications](publications.md)
-- 📫 [Contact Me](mailto:your.email@example.com)
+- 📫 [Contact Me](mailto:srrezaei@yorku.ca)
