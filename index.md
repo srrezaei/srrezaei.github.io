@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-<p align="center">
-  <img src="profilepic.jpg" alt="Seyedreza Rezaei" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</p>
+<img src="profilepic.jpg" alt="Seyedreza Rezaei" width="250" style="display: block; margin: 0 auto;">
 
 # Welcome to My Research Website
 
