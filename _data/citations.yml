@@ -3,5 +3,5 @@
 # workflow is not enabled here, so the file simply stays empty and no citation
 # badges are shown. (The demo data that shipped with the theme was removed.)
 metadata:
-  last_updated:
-papers:
+  last_updated: ""
+papers: {}
