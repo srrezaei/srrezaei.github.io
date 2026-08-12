@@ -1,0 +1,172 @@
+cv:
+  name: Seyedreza Rezaei
+  label: Ph.D. Candidate in Robotics and Aerospace Engineering
+  email: srrezaei@yorku.ca
+  location: Toronto, Canada
+  image: ""
+  summary: >
+    Ph.D. candidate at York University working on safe nonlinear model predictive control for UAV
+    slung-payload transportation, combining passivity-based stability guarantees with control
+    barrier functions and validating them on real flight hardware.
+
+  social_networks:
+    - network: GitHub
+      username: srrezaei
+    - network: LinkedIn
+      username: seyedreza-rezaei-269980165
+
+  sections:
+    Education:
+      - institution: York University
+        location: Toronto, Canada
+        url: https://www.yorku.ca/lassonde/
+        area: Robotics and Aerospace Engineering
+        studyType: Ph.D. Candidate
+        start_date: 2023-09
+        end_date: Present
+        score: "GPA 4.0/4.0"
+        highlights:
+          - Department of Earth and Space Science and Engineering, Lassonde School of Engineering.
+          - Spacecraft Dynamics, Control and Navigation Laboratory (SDCNLab), advised by Prof. Jinjun Shan.
+
+      - institution: University of Rome Tor Vergata
+        location: Rome, Italy
+        url: https://web.uniroma2.it/
+        area: Mechatronics Engineering
+        studyType: M.Sc.
+        start_date: 2019-09
+        end_date: 2022-10
+        score: "104/110"
+        highlights:
+          - Department of Electronic Engineering.
+          - Ranked among the top 3 students overall; ranked 1st for two years.
+
+      - institution: University of Stuttgart
+        location: Stuttgart, Germany
+        url: https://www.uni-stuttgart.de/
+        area: Deep Learning, Nonlinear and Model Predictive Control
+        studyType: Erasmus+ Exchange
+        start_date: 2021-03
+        end_date: 2021-08
+
+      - institution: Shiraz University
+        location: Shiraz, Iran
+        url: https://en.shirazu.ac.ir/
+        area: Mechanical Engineering
+        studyType: B.Sc.
+        start_date: 2015-09
+        end_date: 2019-02
+        score: "14.62/20 (field average 13.56/20)"
+        highlights:
+          - School of Mechanical Engineering.
+
+    Experience:
+      - company: Lassonde School of Engineering, York University
+        position: Teaching Assistant & Research Assistant
+        location: Toronto, Canada
+        start_date: 2023-09
+        end_date: Present
+        highlights:
+          - Doctoral researcher at the Spacecraft Dynamics, Control and Navigation Laboratory (SDCNLab).
+          - Simulation and experimental validation of control algorithms on UAV platforms.
+          - Teaching assistant for PHYS 1411, PHYS 1412, PHYS 1800, PHYS 1801, and NATS 1740.
+
+      - company: Quanser
+        position: Ph.D. Researcher Intern
+        location: Toronto, Canada
+        start_date: 2023-09
+        end_date: 2024-05
+        summary: Industry-funded research internship supported by the Mitacs Accelerate program.
+        highlights:
+          - Contributed to development and testing of the QDrone 2 platform.
+          - Implemented and validated control algorithms on hardware.
+
+      - company: Max Planck Institute for Intelligent Systems
+        position: Researcher
+        location: Stuttgart, Germany
+        start_date: 2022-02
+        end_date: 2023-02
+        summary: Full-time researcher in the Locomotion in Biorobotic and Somatic Systems Group.
+        highlights:
+          - Master's thesis on repetitive learning control for soft robotic fish.
+          - Designed and conducted experimental validation studies.
+
+      - company: Laboratory of C-PED (Center for Power Electronics and Drives)
+        position: Research Assistant
+        location: Rome, Italy
+        start_date: 2020-09
+        end_date: 2021-02
+        highlights:
+          - Developed FPGA-based nonlinear control for active rectifiers.
+          - Performed hardware testing and validation.
+
+      - company: Shiraz University, School of Mechanical Engineering
+        position: Research Assistant
+        location: Shiraz, Iran
+        start_date: 2018-07
+        end_date: 2019-02
+        highlights:
+          - Research on structural vibration, nano-mechanics, and nano-bio materials.
+          - Numerical modeling and experimental analysis.
+
+    Awards:
+      - title: Mitacs Accelerate Internship Award
+        awarder: Mitacs
+        summary: >
+          Competitive research-based industry internship funding for graduate students; supported
+          the research internship at Quanser.
+
+      - title: Ranked 1st in M.Sc. Mechatronics Engineering
+        awarder: University of Rome Tor Vergata
+        summary: Ranked first for two consecutive years and among the top 3 students overall.
+
+      - title: Erasmus+ Scholarship and Traineeship
+        awarder: European Commission
+        summary: >
+          Scholarship for study at the University of Stuttgart (2020–21) and traineeship for
+          research at the Max Planck Institute for Intelligent Systems (2021–22).
+
+      - title: DSU Borsista (Diritto Allo Studio Universitario)
+        awarder: Government of Italy
+        summary: Merit- and need-based fellowship supporting M.Sc. study.
+
+      - title: Student Research Grant
+        awarder: Shiraz University
+        summary: Research assistant position awarded through Prof. Esmaeal Ghavanloo.
+
+      - title: Governmental Tuition-Waiving Fellowship
+        awarder: Ministry of Science, Iran
+        summary: Full tuition waiver for undergraduate study.
+
+    Skills:
+      - name: Control & Robotics
+        icon: fa-solid fa-helicopter
+        keywords: "Nonlinear MPC, Control Barrier Functions, Passivity-Based Control, State Estimation"
+
+      - name: Optimization & Simulation
+        icon: fa-solid fa-square-root-variable
+        keywords: "CasADi, ACADOS, Simulink, Gazebo"
+
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, C++, Bash, ROS"
+
+      - name: Design & Documentation
+        icon: fa-solid fa-pen-ruler
+        keywords: "SolidWorks, LaTeX, Microsoft Office, NI LabVIEW"
+
+    Outreach and Grants:
+      - name: CSME Bulletin (Fall 2025)
+        summary: >
+          "Planning and Control of UAV-Slung-Load Systems for Efficient and Smarter Aerial
+          Transportation," Canadian Society for Mechanical Engineering, Special Issue on Advances
+          in Aerospace.
+
+      - name: Swiss National Science Foundation — Soft Paleo-Robotics
+        summary: >
+          "Recreating Ancient Marine Reptiles' Agile Swimming." Grant co-writer (PI: Dr. Ardian
+          Jusufi), including the SNSF Starting Grant proposal.
+
+      - name: Joint Proposal Submission (D-A-CH)
+        summary: >
+          "Obstacle Traversal with Soft Active Appendages." Grant co-writer (PI: Dr. Ardian Jusufi).

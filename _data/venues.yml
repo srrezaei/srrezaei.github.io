@@ -1,0 +1,16 @@
+# Maps the `abbr` field of a bib entry to a link and a badge colour.
+"ICRA":
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+  color: "#00369f"
+
+"RA-L":
+  url: https://www.ieee-ras.org/publications/ra-l
+  color: "#0b6e4f"
+
+"J. R. Soc. Interface":
+  url: https://royalsocietypublishing.org/journal/rsif
+  color: "#8a2b2b"
+
+"Front. Sens.":
+  url: https://www.frontiersin.org/journals/sensors
+  color: "#2f6f8f"

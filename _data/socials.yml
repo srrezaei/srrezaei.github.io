@@ -1,0 +1,10 @@
+# Social media links and usernames.
+# Icons are displayed in the order they are defined here.
+# Docs: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CV_Seyedreza_Rezaei.pdf # path to your CV PDF file
+email: srrezaei@yorku.ca
+scholar_userid: 0gg3SFcAAAAJ # Google Scholar
+github_username: srrezaei
+linkedin_username: seyedreza-rezaei-269980165
+# orcid_id: # add your ORCID iD here once you have one
+rss_icon: false # no blog feed advertised for now

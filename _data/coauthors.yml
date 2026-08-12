@@ -1,0 +1,14 @@
+# Co-author names listed here are linked automatically in the bibliography.
+# Key is the lowercase last name; add a `url` when you have one worth linking.
+"shan":
+  - firstname: ["Jinjun", "J."]
+    url: https://www.yorku.ca/lassonde/research/space-engineering/
+
+"jusufi":
+  - firstname: ["Ardian", "A."]
+
+"verrelli":
+  - firstname: ["Cristiano Maria", "C. M."]
+
+"rezai":
+  - firstname: ["Pouya", "P."]

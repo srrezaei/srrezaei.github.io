@@ -1,0 +1,7 @@
+# Cached Google Scholar citation counts.
+# The theme's `update-citations` GitHub Action normally refreshes this file; that
+# workflow is not enabled here, so the file simply stays empty and no citation
+# badges are shown. (The demo data that shipped with the theme was removed.)
+metadata:
+  last_updated:
+papers:
